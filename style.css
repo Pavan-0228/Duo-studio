@@ -39,11 +39,6 @@ html,body{
     animation-iteration-count:infinite;
 
 }
-#loop span{
-    -webkit-text-stroke: 1.2px #000;
-    color: transparent;
-    font-weight: 500;
-}
 @keyframes anime{
     0%{
         transform: translateX(0%);
